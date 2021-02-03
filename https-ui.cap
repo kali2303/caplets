@@ -14,7 +14,7 @@ set https.server.path /usr/local/share/bettercap/ui
 
 # !!! CHANGE THESE !!!
 set api.rest.username user
-set api.rest.password pass
+set api.rest.password 123456
 
 # go!
 api.rest on
